@@ -1,0 +1,27 @@
+{
+  "name": "node-fs-tweaks",
+  "version": "0.1.0",
+  "description": "Some function wrapping node:fs",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serz999/node-fs-tweaks.git"
+  },
+  "keywords": [
+    "fs"
+  ],
+  "author": "serz999",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/serz999/node-fs-tweaks/issues"
+  },
+  "homepage": "https://github.com/serz999/node-fs-tweaks#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
